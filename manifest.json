@@ -1,0 +1,24 @@
+{
+    "name":"Food App",
+    "short":"foodapp",
+    "start_url":"/index.html",
+    "display":"standalone",
+    "background_color":"#FFE9D2",
+    "theme_color":"#FFE9D2",
+    "orientation":"portrait-primary",
+    "icons":[
+        {
+            "src":"/img/downloa.png",
+            "type":"image/png",
+            "sizes":"144x144"
+        },
+        {
+            "src":"/img/downloaded.png",
+            "type":"image/png",
+            "sizes":"512x512",
+            "purpose":"maskable"
+        }
+
+
+    ]
+}
